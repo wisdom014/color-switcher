@@ -4,6 +4,10 @@
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+body {
+  height: 100dvh;
+  width: 100dvw;
+}
 
 /* HEADER */
 header {
@@ -115,10 +119,10 @@ input {
   height: 30px;
   position: relative;
   bottom: 5px;
-  background-color: hsl(205, 78%, 60%);
-  color: white;
+  color: black;
   font-weight: 700;
   text-transform: uppercase;
-  text-indent: 15px;
+  text-indent: 12px;
   letter-spacing: 10px;
+  padding: 3px;
 }
