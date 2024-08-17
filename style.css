@@ -5,6 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
+  display: inline;
   height: 100dvh;
   width: 100dvw;
 }
